@@ -27,7 +27,7 @@ class Celular:
 # Dica: Boas práticas em Python pedem nomes de variáveis em minúsculo (celular1)
 # Passamos os booleanos True/False sem aspas para o Python entender como comando, não texto
 celular1 = Celular("Motorola", "Edge 60 Pro", "Cinza", "100%", True)
-celular2 = Celular("Apple", "Iphone XS", "Vermelho", "0%", False)
+celular2 = Celular("Apple", "Iphone XS", "Vermelho", "74%", False)
 
 # Acessando e alterando atributos
 print("--- Ficha do celular 1 ---")
